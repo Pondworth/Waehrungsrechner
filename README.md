@@ -2,7 +2,7 @@
 
 
 
-Ein kleiner Währungsrechner in Java mit ausführbarer .bat Datei. 
+Ein kleiner Währungsrechner in Java 
 
 Folgende Währungen sind inbegriffen (Umrechnungskurs von 12.03.2023)
 
